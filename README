@@ -1,0 +1,8 @@
+my-electron-app/
+├── node_modules/
+├── src/
+│   ├── main.js        // Proceso principal
+│   ├── index.html     // Archivo HTML principal
+│   └── renderer.js    // Proceso de renderizado (front-end)
+├── package.json       // Configuración del proyecto
+└── package-lock.json  // Dependencias específicas
